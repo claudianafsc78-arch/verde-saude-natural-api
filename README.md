@@ -90,7 +90,4 @@ A atividade contempla:
 
 ---
 
-## 👥 Grupo
 
-* Claudiana Ferreira da Silva Carvalho
-* Risoneide
